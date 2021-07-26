@@ -1,0 +1,20 @@
+
+.cell.white {
+    width: 50px;
+    height: 50px;
+    border: blue 2px solid;
+    display: inline-block;
+    background: white;
+}
+
+.cell.black {
+    width: 50px;
+    height: 50px;
+    border: blue 2px solid;
+    display: inline-block;
+    background: black;
+}
+
+
+
+
